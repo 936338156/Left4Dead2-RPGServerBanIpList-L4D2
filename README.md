@@ -11,7 +11,7 @@
 
 ### 使用火绒导入
 
-1. 到[releases](https://github.com/936338156/mindustry-Interplanetary-Industries-mod/releases)下载最新的 `L4D2-RPGServerBanIpList.json`
+1. 到[Releases](https://github.com/936338156/Left4Dead2-RPGServerBanIpList-L4D2/releases)下载最新的 `L4D2-RPGServerBanIpList.json`
 2. 前往火绒主界面
 3. 依次点击右上角的三条横线[菜单]，安全设置，高级防护，IP黑名单
 4. 点击IP黑名单下方的导入，选择 `L4D2-RPGServerBanIpList.json`再点击打开，然后就导入完成了
